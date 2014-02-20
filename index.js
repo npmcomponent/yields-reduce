@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var each = require('each');
+var each = require('component-each');
 
 /**
  * Export `reduce`

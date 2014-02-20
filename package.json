@@ -1,0 +1,13 @@
+{
+  "name": "yields-reduce",
+  "description": "reduce anything",
+  "version": "0.0.1",
+  "keywords": [
+    "reduce"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git"
+  },
+  "license": "MIT"
+}
